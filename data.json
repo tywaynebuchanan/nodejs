@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "name":"JAMECO",
+        "account":"Independent",
+        "contact":"John Wayne",
+        "position":"General Manager",
+        "contact_info":{
+            "phone": "876-765-8765",
+            "email":"test@test.com"
+        },
+        "contact_details":"No one answered the phone",
+        "date":"01/01/2022"
+        
+    },
+    {
+        "id":2,
+        "name":"JAMECO",
+        "account":"Independent",
+        "contact":"John Wayne",
+        "position":"General Manager",
+        "contact_info":{
+            "phone": "876-765-8765",
+            "email":"test@test.com"
+        },
+        "contact_details":"No one answered the phone",
+        "date":"01/01/2022"
+        
+    }
+]
